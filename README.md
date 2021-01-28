@@ -1,1 +1,1 @@
-# 4009Project
+# GEOM4009 MODIS Project
